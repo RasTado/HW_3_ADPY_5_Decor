@@ -1,4 +1,0 @@
-Function:  FlatIterator   call at   2022-08-16 14:36:02.554097  
-Arguments:  ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}  
-Result:  ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]  
-_______________________
